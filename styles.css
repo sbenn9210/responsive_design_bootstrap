@@ -17,11 +17,13 @@ a.visited {
     text-decoration: none;
 }
 .inactive {
-    text-decoration: none;
+    
+    /* color: pink; */
 }
 
 .active {
-    text-decoration: bold;
+    font-weight: 900;
+    /* color: green; */
 }
 
 .pads {
