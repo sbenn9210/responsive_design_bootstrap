@@ -1,0 +1,17 @@
+.social {
+  background-color: #F1902D;
+  color: white;
+  display: flex;
+}
+.social p {
+  margin-right: 20px;
+  margin-left: 5px;
+}
+
+.down {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+/*# sourceMappingURL=output.css.map */
